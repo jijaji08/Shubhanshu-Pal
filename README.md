@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhanchu pal
+- 👋 Hi, I’m @shubhanshu pal
 - 👀 I’m interested in coding and web development 
 - 🌱 I’m currently learning HTML,PHP and javascript
 - 💞️ I’m looking to collaborate on ...
